@@ -1,3 +1,4 @@
 # Kedvenc receptek
 
-- Palacsinta: Kakaós és lekváros
+- Palacsinta: sós-túrós és hortobágyi húsos
+- Gulyásleves
