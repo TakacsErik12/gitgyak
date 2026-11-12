@@ -1,4 +1,5 @@
 # Kedvenc receptek
 
-- Palacsinta: sós-túrós és hortobágyi húsos
+- Palacsinta: Kakaós, lekváros mogyorókrémes, sós-túrós és hortobágyi húsos
 - Gulyásleves
+- Madártej (extra vaníliával)
